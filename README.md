@@ -9,7 +9,7 @@ this repository contains all my jupyter notebooks
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 3px solid #4CAF50;"/>
+<img src="github profile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 3px solid #4CAF50;"/>
 
 ### John Doe
 
