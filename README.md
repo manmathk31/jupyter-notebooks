@@ -3,9 +3,13 @@ this repository contains all my jupyter notebooks
 
 ---
 
+---
+
 ## 👤 Author
 
 <div align="center">
+
+<img src="https://github.com/yourusername.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 3px solid #4CAF50;"/>
 
 ### John Doe
 
@@ -19,6 +23,9 @@ this repository contains all my jupyter notebooks
 </div>
 
 ---
+
+**💼 Let's Connect!**
+
 Feel free to reach out for collaborations, questions, or just a friendly chat about technology.
 
 ---
